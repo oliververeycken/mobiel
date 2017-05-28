@@ -48,7 +48,7 @@ img {
   color: black;
 }
 
-.titel a:hover {
+.titel a:hover, .online a:hover {
   border-bottom: 2px solid black;
 }
 
@@ -103,4 +103,9 @@ nav a {
   font-family: 'Avenir Next';
   font-size: 12px;
   font-weight: bold;
+}
+
+.online {
+  font-family: 'Avenir Next';
+  font-size: 12px;
 }
